@@ -21,3 +21,8 @@ r2: Bottom Right coordinate of second rectangle.
 
 Q4:
 Fibonacci Series in Java without recursion
+
+Q5:
+Tower Of Hanoi
+
+![image](https://user-images.githubusercontent.com/77162392/180857630-32683543-dcc6-4c4f-9195-3fab47b9fd81.png)
