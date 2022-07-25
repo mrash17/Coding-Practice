@@ -29,3 +29,4 @@ Tower Of Hanoi
 
 Q6:
 Generate random number between 20-30
+![image](https://user-images.githubusercontent.com/77162392/180862163-6858496e-b156-4b57-b52e-1636776957eb.png)
