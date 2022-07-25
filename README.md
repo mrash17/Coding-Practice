@@ -26,3 +26,6 @@ Q5:
 Tower Of Hanoi
 
 ![image](https://user-images.githubusercontent.com/77162392/180857630-32683543-dcc6-4c4f-9195-3fab47b9fd81.png)
+
+Q6:
+Generate random number between 20-30
