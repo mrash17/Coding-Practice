@@ -34,3 +34,9 @@ Generate random number between 20-30
 
 Q7
  Convert Binary into decimal.
+ 
+ Q8
+ Find HCF or GCD
+ 
+ Q9
+ Find LCM
