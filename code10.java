@@ -19,7 +19,7 @@ class arrange{
   public static void main (String args[])
   {
     int arr[]={-1,-3,2,5,3,-5};
-    int n=arr.length();
+    int n=arr.length;
     arrangeit(arr,n);
     for(int i=0;i<n;i++)
     {
