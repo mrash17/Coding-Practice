@@ -40,3 +40,6 @@ Q7
  
  Q9
  Find LCM
+ 
+ Q10
+ Move all the negative elements to one side of the array or sort the array
