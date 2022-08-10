@@ -43,3 +43,14 @@ Q7
  
  Q10
  Move all the negative elements to one side of the array or sort the array
+ 
+# LeetCode Questions
+
+Q11 ADD Two Numbers
+You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+![image](https://user-images.githubusercontent.com/77162392/183926361-f2573eae-68e0-4ee3-ad68-3c466d461a81.png)
+![image](https://user-images.githubusercontent.com/77162392/183926627-8634ce88-b396-4980-9f2a-cce5e140cdaf.png)
+
+
