@@ -52,5 +52,19 @@ You are given two non-empty linked lists representing two non-negative integers.
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 ![image](https://user-images.githubusercontent.com/77162392/183926361-f2573eae-68e0-4ee3-ad68-3c466d461a81.png)
 ![image](https://user-images.githubusercontent.com/77162392/183926627-8634ce88-b396-4980-9f2a-cce5e140cdaf.png)
+Q12 Number of Arithmetic Triplets
+You are given a 0-indexed, strictly increasing integer array nums and a positive integer diff. A triplet (i, j, k) is an arithmetic triplet if the following conditions are met:
 
+i < j < k,
+nums[j] - nums[i] == diff, and
+nums[k] - nums[j] == diff.
+Return the number of unique arithmetic triplets
+![image](https://user-images.githubusercontent.com/77162392/183928725-9b988e09-1761-4d2b-a2e1-1bd58703c5f4.png)
+
+Q13 Two Sum
+
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
+![image](https://user-images.githubusercontent.com/77162392/183928890-ff7f435e-3e09-4efa-96ca-c759beb3dafa.png)
 
