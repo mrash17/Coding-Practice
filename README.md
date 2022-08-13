@@ -52,6 +52,7 @@ You are given two non-empty linked lists representing two non-negative integers.
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 ![image](https://user-images.githubusercontent.com/77162392/183926361-f2573eae-68e0-4ee3-ad68-3c466d461a81.png)
 ![image](https://user-images.githubusercontent.com/77162392/183926627-8634ce88-b396-4980-9f2a-cce5e140cdaf.png)
+
 Q12 Number of Arithmetic Triplets
 You are given a 0-indexed, strictly increasing integer array nums and a positive integer diff. A triplet (i, j, k) is an arithmetic triplet if the following conditions are met:
 
