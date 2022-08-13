@@ -67,9 +67,11 @@ Q13 Two Sum
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 You can return the answer in any order.
+
 ![image](https://user-images.githubusercontent.com/77162392/183928890-ff7f435e-3e09-4efa-96ca-c759beb3dafa.png)
 
 Q14
+
 Longest Substring Without Repeating characters
 ![image](https://user-images.githubusercontent.com/77162392/184213888-91e815f7-a09c-4403-b455-45a96eb72a20.png)
 
