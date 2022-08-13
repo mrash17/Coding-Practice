@@ -81,3 +81,5 @@ Median of Two Sorted Arrays
 
 ![image](https://user-images.githubusercontent.com/77162392/184502857-18d7efc8-8d7b-4599-a1bf-556c5f1209d9.png)
 
+**Q16**
+Merge two sorted arrays
