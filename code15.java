@@ -15,5 +15,14 @@ class Solution {
             arr3[k++]=arr2[j++];
        
     }
- public double findMedianSortedArrays(int[] nums1, int[] nums2)
- {
+  public double findMedianSortedArrays(int[] nums1, int[] nums2)
+  {
+         int n1=nums1.length;
+         int n2=nums2.length;
+         int arr[]=new int[n1+n2];
+         merge(nums1,nums2,arr,n1,n2);
+         double median;
+         int l=arr.length;
+         int mid=l/2;
+  }
+}
