@@ -24,5 +24,14 @@ class Solution {
          double median;
          int l=arr.length;
          int mid=l/2;
-  }
+         if(l%2==0)
+        {
+            median=(arr[mid-1]+arr[mid])/2.0;
+            return median;
+        }
+        else
+            median=arr[mid];
+            return median;
+        
+    }
 }
