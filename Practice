@@ -45,7 +45,7 @@
         <div class="col-md-8 d-flex align-items-center justify-content-md-start mb-md-0">
           <button class="navbar-toggler navcollapse" href="#offcanvasExample" role="button" data-bs-toggle="offcanvas"
             aria-controls="offcanvasExample">
-            <span class="navbar-toggler-icon"  onclick="handleInOut()"></span>
+            <span class="navbar-toggler-icon" onclick="handleInOut()"></span>
           </button>
           <a href="#!" class="ms-md-2 mt-2">
             <img src="images/logo.png" alt="" height="35">
@@ -306,12 +306,12 @@
             <span class="input-group-text border-0 d-none d-lg-flex"><i class="fas fa-search"></i></span>
             <input class="form-control me-2 border-0" type="search" placeholder="Search" aria-label="Search">
           </form>
-          
+
         </div>
         <div class="">
           <button class="navbar-toggler navcollapse" type="button" href="#offcanvasExample2" data-bs-toggle="offcanvas"
             aria-controls="offcanvasExample">
-            <img src="images/filter.png">          
+            <img src="images/filter.png">
           </button>
         </div>
         <div class="container-fluid col-md-6 col-4 p-0">
@@ -323,7 +323,7 @@
             </div>
             <div class="offcanvas-body justify-content-end">
               <ul class="navbar-nav my-2 my-lg-0">
-                
+
                 <li class="nav-item dropdown me-0 ">
                   <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                     aria-expanded="false">
@@ -407,9 +407,112 @@
             </div>
           </div>
         </div>
-
-        <!-- Container wrapper -->
       </nav>
+      <!--Nav Ended-->
+      <!--Div For Filters -->
+      <div>
+      </div>
+        <!--Div For Sort by -->
+      <div>
+        <h2>Explore 72 missions</h2>
+      </div>
+      <!--div for cards-->
+      <div class="row row-cols-1 row-cols-md-2 rg-4">
+        <div class="col">
+          <div class="card h-100">
+            <img src="/images/Grow-Trees-On-the-path-to-environment-sustainability.png" class="card-img-top" alt="Skyscrapers" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                This is a wider card with supporting text below as a natural lead-in to
+                additional content. This content is a little bit longer.
+              </p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <img src="/images/Education-Supplies-for-Every--Pair-of-Shoes-Sold.png" class="card-img-top"
+              alt="Los Angeles Skyscrapers" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <img src="/images/Nourish-the-Children-in--African-country.png" class="card-img-top"
+              alt="Palm Springs Road" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                This is a wider card with supporting text below as a natural lead-in to
+                additional content. This card has even longer content than the first to show
+                that equal height action.
+              </p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <img src="images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png" class="card-img-top" alt="Skyscrapers" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                This is a wider card with supporting text below as a natural lead-in to
+                additional content. This content is a little bit longer.
+              </p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <img src="images/Animal-welfare-_-save-birds-campaign.png" class="card-img-top"
+              alt="Los Angeles Skyscrapers" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <img src="images/Plantation-and-Afforestation-programme.png" class="card-img-top"
+              alt="Palm Springs Road" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                This is a wider card with supporting text below as a natural lead-in to
+                additional content. This card has even longer content than the first to show
+                that equal height action.
+              </p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
     </div>
     <div class="col-md-2 col-0 border-bottom"></div>
   </div>
