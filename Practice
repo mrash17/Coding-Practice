@@ -45,7 +45,7 @@
         <div class="col-md-8 d-flex align-items-center justify-content-md-start mb-md-0">
           <button class="navbar-toggler navcollapse" href="#offcanvasExample" role="button" data-bs-toggle="offcanvas"
             aria-controls="offcanvasExample">
-            <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon"  onclick="handleInOut()"></span>
           </button>
           <a href="#!" class="ms-md-2 mt-2">
             <img src="images/logo.png" alt="" height="35">
@@ -299,33 +299,32 @@
       <!-- Second nav bar -->
       <nav class="navbar navbar-expand-lg bg-white d-flex align-items-center border-bottom border-top"
         style="box-shadow: none;">
-
         <!-- Search -->
         <!-- <div class="d-flex align-items-center justify-content-md-start mb-md-0"> -->
-        <div class="col-md-6 col-10">
+        <div class="col-md-6 col-8">
           <form class="d-flex">
             <span class="input-group-text border-0 d-none d-lg-flex"><i class="fas fa-search"></i></span>
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <input class="form-control me-2 border-0" type="search" placeholder="Search" aria-label="Search">
           </form>
-          <div class="col-2">
+          
+        </div>
+        <div class="">
           <button class="navbar-toggler navcollapse" type="button" href="#offcanvasExample2" data-bs-toggle="offcanvas"
             aria-controls="offcanvasExample">
-            <span class="navbar-toggler-icon"></span>
+            <img src="images/filter.png">          
           </button>
         </div>
-        </div>
-
-        <div class="container-fluid col-md-6">
+        <div class="container-fluid col-md-6 col-4 p-0">
           <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample2"
             aria-labelledby="offcanvasExampleLabel" style="width:50%">
             <div class="offcanvas-header">
               <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                 aria-label="Close"></button>
             </div>
-            <div class="offcanvas-body ">
+            <div class="offcanvas-body justify-content-end">
               <ul class="navbar-nav my-2 my-lg-0">
                 
-                <li class="nav-item dropdown me-0  mx-3 my-auto border-start">
+                <li class="nav-item dropdown me-0 ">
                   <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                     aria-expanded="false">
                     Country
